@@ -27,7 +27,7 @@ The Pomodoro Timer is a simple web-based application designed to help you manage
 ## **Getting Started**  
 
 ### **Live Demo**  
-You can try the live version of this app [here](#). *(Update the link after hosting)*
+You can try the live version of this app by visiting this link. https://abdulrauf1122.github.io/Pomodoro_Timer/
 
 ### **Installation**  
 1. Clone the repository:  
