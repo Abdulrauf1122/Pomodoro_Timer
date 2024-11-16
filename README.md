@@ -32,11 +32,11 @@ You can try the live version of this app by visiting this link. https://abdulrau
 ### **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/pomodoro-timer.git
+   git clone https://github.com/yourusername/pomodoro_timer.git
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd pomodoro-timer
+   cd pomodoro_timer
    ```
 3. Open `index.html` in your web browser to use the application.
 
